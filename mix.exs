@@ -13,7 +13,7 @@ defmodule Leb128.MixProject do
       # Hex
       description: "LEB128 is a library for encoding and decoding LEB128 encoded numbers.",
       package: [
-        licenses: ["Apache 2.0"],
+        licenses: ["Apache-2.0"],
         maintainers: ["Dominic Letz"],
         links: %{"GitHub" => @url}
       ],
